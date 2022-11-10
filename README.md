@@ -1,1 +1,2 @@
-# Project-Info1-Bash
+
+- Bash Scripting -  College project -
