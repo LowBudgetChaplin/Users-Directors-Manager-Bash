@@ -104,7 +104,7 @@
     echo -e "    1 - Schimbarea primului sir de caractere dintr-un fisier text.\n"
     echo -e "    2 - Crearea unui script si rularea lui automata.\n"
     echo -e "    3 - Oferirea permisiunii de adaugare a utilizatorilor, adaugarea unui utilizator si crearea unui folder home in el.\n"
-    echo -e "    4 - Oferirea permisiuneii de stergere a unui utiliziator si optiunea de stergere a directorului home al lui.\n"
+    echo -e "    4 - Oferirea permisiunii de stergere a unui utiliziator si optiunea de stergere a directorului home al lui.\n"
     echo -e "    q - Inchiderea scriptului.\n"
     echo " "
 
